@@ -31,7 +31,6 @@ class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSou
             self.tableView.reloadData()
             
             }) { (operation: AFHTTPRequestOperation!, error: NSError!) -> Void in
-            
         }
     }
     func searchBar(searchBar: UISearchBar, textDidChange searchText: String) {
@@ -57,6 +56,8 @@ class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSou
          tableView.delegate = self
         tableView.dataSource = self
         searchBar.delegate = self
+        tableView.rowHeight = UITableViewAutomaticDimension
+        tableView.estimatedRowHeight = 50
        // tableView.rowHeight = UITableViewAutomaticDimension
         self.navigationItem.titleView = self.searchBar
         getYelpData(searchTerm)

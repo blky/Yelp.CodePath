@@ -26,7 +26,7 @@ class YelpTableViewCell: UITableViewCell    {
         labelAddress.text = streetAddress + "," + city
         //println(cellData ["categories"])
 
-        if (cellData ["categories"] != nil) {
+        /*if (cellData ["categories"] != nil) {
         
             let categories = cellData ["categories"] as NSArray
             let category = categories [0] as NSArray
@@ -39,6 +39,14 @@ class YelpTableViewCell: UITableViewCell    {
             //println(cateAll)
             labelCategory.text = cateAll
         }
+        */
+        var category:String?
+        
+        if let categories = cellData["categories"] as? Array<Array<String>> {
+            category =  ", ".join(categories.map({ $0[0] }))
+        }
+        labelCategory.text = category
+        
         let reviewCount = cellData["review_count"] as Int
         
         let distance = (cellData["distance"] as Double) / 1610.0
@@ -54,6 +62,10 @@ class YelpTableViewCell: UITableViewCell    {
         {
             imgRestaurant.setImageWithURL(NSURL(string: tempImg))
         }
+        
+        imgRestaurant.layer.cornerRadius = 9.0
+       imgRestaurant.layer.masksToBounds = true
+        
         var restaurantAddress = address[0] as String
         for var i = 1 ; i < address.count; i++ {
             let temp = address[i] as String

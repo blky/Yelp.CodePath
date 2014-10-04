@@ -1,0 +1,945 @@
+ 
+{
+    businesses =     (
+    {
+        categories =             (
+        (
+        Mediterranean,
+        mediterranean
+        ),
+        (
+        Afghan,
+        afghani
+        ),
+        (
+        Halal,
+        halal
+        )
+        );
+        "display_phone" = "+1-510-784-1919";
+        distance = "196.3293831666584";
+        id = "zam-zam-grill-fremont";
+        "image_url" = "http://s3-media4.fl.yelpcdn.com/bphoto/KXd45SqcdGfzjYiEwWNfOw/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "3876 Decoto Rd"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "display_address" =                 (
+            "3876 Decoto Rd",
+            "Fremont, CA 94536"
+            );
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1403113820;
+        "menu_provider" = eat24;
+        "mobile_url" = "http://m.yelp.com/biz/zam-zam-grill-fremont";
+        name = "Zam Zam Grill";
+        phone = 5107841919;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 130;
+        "snippet_image_url" = "http://s3-media1.fl.yelpcdn.com/photo/5xAbYA2KiI5QQL9VCcYDeA/ms.jpg";
+        "snippet_text" = "The food here us absolutely delicious. I tried three things so far and they are all the best around: Philly Gyro, Steak Gyro, and Chicken Wrap. Place is...";
+        url = "http://www.yelp.com/biz/zam-zam-grill-fremont";
+    },
+    {
+        categories =             (
+        (
+        Korean,
+        korean
+        ),
+        (
+        Karaoke,
+        karaoke
+        ),
+        (
+        "Asian Fusion",
+        asianfusion
+        )
+        );
+        "display_phone" = "+1-510-795-7987";
+        distance = "147.2887114566805";
+        id = "k-pop-cafe-fremont";
+        "image_url" = "http://s3-media4.fl.yelpcdn.com/bphoto/Q4d_LPRwsNtomDVThXTXdw/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "35041 Fremont Blvd"
+            );
+            city = Fremont;
+            coordinate =                 {
+                latitude = "37.570362";
+                longitude = "-122.0318791";
+            };
+            "country_code" = US;
+            "cross_streets" = "Decoto Rd & Becerra Dr";
+            "display_address" =                 (
+            "35041 Fremont Blvd",
+            "Fremont, CA 94536"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/k-pop-cafe-fremont";
+        name = "K-Pop Cafe";
+        phone = 5107957987;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 214;
+        "snippet_image_url" = "http://s3-media1.fl.yelpcdn.com/photo/pMvuvI9K3KK8lP8de7ZzGQ/ms.jpg";
+        "snippet_text" = "Seriously... what was I doing in Fremont, California. I'm not even sure I even know where that is, but I was there. Even more shocking that we stumbled on...";
+        url = "http://www.yelp.com/biz/k-pop-cafe-fremont";
+    },
+    {
+        categories =             (
+        (
+        "Sushi Bars",
+        sushi
+        ),
+        (
+        Japanese,
+        japanese
+        )
+        );
+        "display_phone" = "+1-510-792-5677";
+        distance = "190.5248373708797";
+        id = "mioki-sushi-fremont";
+        "image_url" = "http://s3-media2.fl.yelpcdn.com/bphoto/qHC6oWM8GDxuFvZpgMvqjQ/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "3924 Decoto Rd"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "display_address" =                 (
+            "3924 Decoto Rd",
+            "Fremont, CA 94536"
+            );
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/mioki-sushi-fremont";
+        name = "Mioki Sushi";
+        phone = 5107925677;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 469;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/ohKcNLHwQ3nxon8cCxYqTA/ms.jpg";
+        "snippet_text" = "It's been about 4 years since I last came here and it has definitely improved!\n\nIt's a small place located near the Walgreens and McDonalds. When I entered...";
+        url = "http://www.yelp.com/biz/mioki-sushi-fremont";
+    },
+    {
+        categories =             (
+        (
+        Burmese,
+        burmese
+        )
+        );
+        "display_phone" = "+1-510-574-1819";
+        distance = "2271.927098022854";
+        id = "kyain-kyain-main-main-kyay-oh-fremont";
+        "image_url" = "http://s3-media1.fl.yelpcdn.com/bphoto/Ns72EdlBicKQA4qf5Cog8A/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "3649 Thornton Ave"
+            );
+            city = Fremont;
+            coordinate =                 {
+                latitude = "37.5625680937562";
+                longitude = "-122.009765021503";
+            };
+            "country_code" = US;
+            "cross_streets" = "Moraine St & Post St";
+            "display_address" =                 (
+            "3649 Thornton Ave",
+            "Fremont, CA 94536"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1411842371;
+        "menu_provider" = eat24;
+        "mobile_url" = "http://m.yelp.com/biz/kyain-kyain-main-main-kyay-oh-fremont";
+        name = "Kyain Kyain - Main Main Kyay Oh";
+        phone = 5105741819;
+        rating = "4.5";
+        "rating_img_url" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png";
+        "rating_img_url_large" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png";
+        "rating_img_url_small" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png";
+        "review_count" = 102;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/PCYW0F6w8BmPMIqIOjGVjA/ms.jpg";
+        "snippet_text" = "Prices have gone up slightly but their offerings have also expanded.  I now see Oh no kau swe (coconut curry noodle soup) and paratha with different types...";
+        url = "http://www.yelp.com/biz/kyain-kyain-main-main-kyay-oh-fremont";
+    },
+    {
+        categories =             (
+        (
+        Pizza,
+        pizza
+        ),
+        (
+        Indian,
+        indpak
+        )
+        );
+        "display_phone" = "+1-510-796-7700";
+        distance = "1731.501031217954";
+        id = "bombay-pizza-house-fremont";
+        "image_url" = "http://s3-media1.fl.yelpcdn.com/bphoto/mDibCANEHBRSgrb2ljVtng/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "4922 Paseo Padre Pkwy"
+            );
+            city = Fremont;
+            coordinate =                 {
+                latitude = "37.5677679";
+                longitude = "-122.0522177";
+            };
+            "country_code" = US;
+            "cross_streets" = "Deep Creek Rd & Capulet Rd";
+            "display_address" =                 (
+            "4922 Paseo Padre Pkwy",
+            "Fremont, CA 94555"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94555;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/bombay-pizza-house-fremont";
+        name = "Bombay Pizza House";
+        phone = 5107967700;
+        rating = "4.5";
+        "rating_img_url" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png";
+        "rating_img_url_large" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png";
+        "rating_img_url_small" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png";
+        "review_count" = 130;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/ohKcNLHwQ3nxon8cCxYqTA/ms.jpg";
+        "snippet_text" = "Bombay Pizza house...more like BOMB ASS PIZZA HOUSE!\n\nThis place is sooooo goood! I love the idea of Indian style pizza! It's just delicious! \nA group of my...";
+        url = "http://www.yelp.com/biz/bombay-pizza-house-fremont";
+    },
+    {
+        categories =             (
+        (
+        Vietnamese,
+        vietnamese
+        )
+        );
+        "display_phone" = "+1-510-487-1378";
+        distance = "2113.910375341142";
+        id = "mais-kitchen-union-city";
+        "image_url" = "http://s3-media1.fl.yelpcdn.com/bphoto/nl4ZmTp_FEy3oc4Mc_usOQ/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "34587 Alvarado Niles Rd"
+            );
+            city = "Union City";
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Decoto Rd";
+            "display_address" =                 (
+            "34587 Alvarado Niles Rd",
+            "Union City, CA 94587"
+            );
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/mais-kitchen-union-city";
+        name = "Mai's Kitchen";
+        phone = 5104871378;
+        rating = "4.5";
+        "rating_img_url" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png";
+        "rating_img_url_large" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png";
+        "rating_img_url_small" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png";
+        "review_count" = 42;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/gKPnhDnlFazGHwIUvFShFQ/ms.jpg";
+        "snippet_text" = "Far to say this is the best Vietnamese restaurant in town\nWhy? They got clean environment which most Vietnamese restaurant are quit dirty...their broth was...";
+        url = "http://www.yelp.com/biz/mais-kitchen-union-city";
+    },
+    {
+        categories =             (
+        (
+        Afghan,
+        afghani
+        ),
+        (
+        Halal,
+        halal
+        )
+        );
+        "display_phone" = "+1-510-857-1009";
+        distance = "2791.209943230265";
+        id = "de-afghanan-fremont-3";
+        "image_url" = "http://s3-media4.fl.yelpcdn.com/bphoto/xbOKKJ0WRKDkKBS08vUWlQ/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "37395 Fremont Blvd"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "cross_streets" = "Beloveria Ct & Peralta Ct";
+            "display_address" =                 (
+            "37395 Fremont Blvd",
+            "Fremont, CA 94536"
+            );
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/de-afghanan-fremont-3";
+        name = "De Afghanan";
+        phone = 5108571009;
+        rating = "4.5";
+        "rating_img_url" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png";
+        "rating_img_url_large" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png";
+        "rating_img_url_small" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png";
+        "review_count" = 769;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/f-ZvK449y7TIrDij5Mz_Jg/ms.jpg";
+        "snippet_text" = "I went here for the first time ever. And also it being my very first experience with Afghan food. My oh my were my taste buds happy.  We had a huge group so...";
+        url = "http://www.yelp.com/biz/de-afghanan-fremont-3";
+    },
+    {
+        categories =             (
+        (
+        "Sushi Bars",
+        sushi
+        ),
+        (
+        Japanese,
+        japanese
+        )
+        );
+        "display_phone" = "+1-510-792-0700";
+        distance = "2270.226115073918";
+        id = "satomi-sushi-fremont";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/IwrSeDU1J4DnG7K438eNbQ/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "3655 Thornton Ave"
+            );
+            city = Fremont;
+            coordinate =                 {
+                latitude = "37.5625444";
+                longitude = "-122.0098005";
+            };
+            "country_code" = US;
+            "cross_streets" = "Moraine St & Post St";
+            "display_address" =                 (
+            "3655 Thornton Ave",
+            "Fremont, CA 94536"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/satomi-sushi-fremont";
+        name = "Satomi Sushi";
+        phone = 5107920700;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 1316;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/kE2jDrjbj6X-xKslrLlAAQ/ms.jpg";
+        "snippet_text" = "My boyfriend and I love love LOVE this place!  For people who are always trying new things we frequent this spot with on average a visit about every other...";
+        url = "http://www.yelp.com/biz/satomi-sushi-fremont";
+    },
+    {
+        categories =             (
+        (
+        Korean,
+        korean
+        )
+        );
+        "display_phone" = "+1-510-792-2252";
+        distance = "2291.501781639446";
+        id = "gangnam-tofu-house-fremont";
+        "image_url" = "http://s3-media4.fl.yelpcdn.com/bphoto/NlfWF1wKDg-OrO2uY-VDIw/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "3619 Thornton Ave"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "cross_streets" = "Moraine St & Post St";
+            "display_address" =                 (
+            "3619 Thornton Ave",
+            "Fremont, CA 94536"
+            );
+            "postal_code" = 94536;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/gangnam-tofu-house-fremont";
+        name = "Gangnam Tofu House";
+        phone = 5107922252;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 136;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/clq8RBngz2xQGVwEd_olkQ/ms.jpg";
+        "snippet_text" = "It's a small place, smallish parking lot, a little bit of a wait (I've passed by for lunch and noticed a line and came for dinner and there was still quite...";
+        url = "http://www.yelp.com/biz/gangnam-tofu-house-fremont";
+    },
+    {
+        categories =             (
+        (
+        "Breakfast & Brunch",
+        "breakfast_brunch"
+        ),
+        (
+        "American (Traditional)",
+        tradamerican
+        ),
+        (
+        Diners,
+        diners
+        )
+        );
+        "display_phone" = "+1-510-429-9059";
+        distance = "1471.799967219543";
+        id = "baldies-caf\U00e9-union-city-2";
+        "image_url" = "http://s3-media2.fl.yelpcdn.com/bphoto/IkodDDX_7TNSc4akVnbbug/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "2649 Decoto Rd"
+            );
+            city = "Union City";
+            "country_code" = US;
+            "cross_streets" = "Clover St & Lilac St";
+            "display_address" =                 (
+            "2649 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1387603414;
+        "menu_provider" = "single_platform";
+        "mobile_url" = "http://m.yelp.com/biz/baldies-caf%C3%A9-union-city-2";
+        name = "Baldie's Caf\U00e9";
+        phone = 5104299059;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 388;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/CK0zHZJ6z1WSvleXw41WAg/ms.jpg";
+        "snippet_text" = "This is one of the \"neighborhood spots\" for breakfast, lunch, and dinner in the East Bay. Mainly in the Fremont, Union City, and Hayward area. I've actually...";
+        url = "http://www.yelp.com/biz/baldies-caf%C3%A9-union-city-2";
+    },
+    {
+        categories =             (
+        (
+        Japanese,
+        japanese
+        )
+        );
+        "display_phone" = "+1-510-475-8600";
+        distance = "2127.253567591741";
+        id = "tadamasa-union-city-2";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/DJUNbwnzsxRIuSj1nMT0WA/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "34672 Alvarado Niles Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.5863942";
+                longitude = "-122.0182738";
+            };
+            "country_code" = US;
+            "cross_streets" = "Decoto Rd & Union Sq";
+            "display_address" =                 (
+            "34672 Alvarado Niles Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/tadamasa-union-city-2";
+        name = Tadamasa;
+        phone = 5104758600;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 474;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/sHqGAm3Shfjz6hKWauXRdQ/ms.jpg";
+        "snippet_text" = "I wish I could eat ramen all day, every day.  But I can only cheat once in a while and this time I couldn't.\n\nI met my friend here (it's our half way point,...";
+        url = "http://www.yelp.com/biz/tadamasa-union-city-2";
+    },
+    {
+        categories =             (
+        (
+        "Coffee & Tea",
+        coffee
+        ),
+        (
+        "American (Traditional)",
+        tradamerican
+        ),
+        (
+        Vietnamese,
+        vietnamese
+        )
+        );
+        "display_phone" = "+1-510-471-7100";
+        distance = "2344.71047695852";
+        id = "jenjons-cafe-union-city";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/2xN9o3lUKmQpEDVGwHXwDA/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "1704 Decoto Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.589058513675";
+                longitude = "-122.01876368886";
+            };
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Meyers Dr";
+            "display_address" =                 (
+            "1704 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1387635626;
+        "menu_provider" = "single_platform";
+        "mobile_url" = "http://m.yelp.com/biz/jenjons-cafe-union-city";
+        name = "Jenjon's Cafe";
+        phone = 5104717100;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 270;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/RbplekvFTem-o0E6SFlwag/ms.jpg";
+        "snippet_text" = "'Was heading to the o'hanas and thought that I'd pick up lunch for everyone... 'And what better way to feed the family than freshly made, delicious, b\U00e1nh...";
+        url = "http://www.yelp.com/biz/jenjons-cafe-union-city";
+    },
+    {
+        categories =             (
+        (
+        Turkish,
+        turkish
+        ),
+        (
+        Vegetarian,
+        vegetarian
+        ),
+        (
+        "Middle Eastern",
+        mideastern
+        )
+        );
+        "display_phone" = "+1-510-324-3035";
+        distance = "2268.006191695066";
+        id = "mr-kebab-union-city-2";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/lUq_aa8brY974WMvg_qM9w/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "1760 Decoto Rd"
+            );
+            city = "Union City";
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Meyers Dr";
+            "display_address" =                 (
+            "1760 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1387634307;
+        "menu_provider" = "single_platform";
+        "mobile_url" = "http://m.yelp.com/biz/mr-kebab-union-city-2";
+        name = "Mr Kebab";
+        phone = 5103243035;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 312;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/9W8a6kQcEMeVI5mpq5OK2Q/ms.jpg";
+        "snippet_text" = "Look -\n\n              I signed a lease in Union City for exactly two weeks, and have been gradually moving my stuff on down into the new place ever since....";
+        url = "http://www.yelp.com/biz/mr-kebab-union-city-2";
+    },
+    {
+        categories =             (
+        (
+        Chinese,
+        chinese
+        ),
+        (
+        Mongolian,
+        mongolian
+        ),
+        (
+        "Hot Pot",
+        hotpot
+        )
+        );
+        "display_phone" = "+1-510-675-9919";
+        distance = "2077.747855979597";
+        id = "little-sheep-mongolian-hot-pot-union-city";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/4xifdSXfL-W9V9qNF_YQMw/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "34396 Alvarado Niles Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.587708";
+                longitude = "-122.021835";
+            };
+            "country_code" = US;
+            "cross_streets" = "Decoto Rd & Meyers Dr";
+            "display_address" =                 (
+            "34396 Alvarado Niles Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 8;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/little-sheep-mongolian-hot-pot-union-city";
+        name = "Little Sheep Mongolian Hot Pot";
+        phone = 5106759919;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 652;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/Z6do5OY1NYetPf-rS-cTMg/ms.jpg";
+        "snippet_text" = "I've been here a couple times and it's been good experiences!  \n\nI would say that the broth options are more of the traditional kind, where the soup bases...";
+        url = "http://www.yelp.com/biz/little-sheep-mongolian-hot-pot-union-city";
+    },
+    {
+        categories =             (
+        (
+        Mexican,
+        mexican
+        )
+        );
+        "display_phone" = "+1-510-818-0252";
+        distance = "1188.457161206206";
+        id = "taqueria-el-mex-cal-fremont";
+        "image_url" = "http://s3-media4.fl.yelpcdn.com/bphoto/wJyaGsFcOgNjAxekIl6AIQ/ms.jpg";
+        "is_claimed" = 0;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "34169 Fremont Blvd"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "cross_streets" = "Boxstead Cmn & Milton Ter";
+            "display_address" =                 (
+            "34169 Fremont Blvd",
+            "Fremont, CA 94555"
+            );
+            "postal_code" = 94555;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/taqueria-el-mex-cal-fremont";
+        name = "Taqueria El Mex-Cal";
+        phone = 5108180252;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 134;
+        "snippet_image_url" = "http://s3-media1.fl.yelpcdn.com/photo/F5jlb9Cgt1BQPwNqJmg8QA/ms.jpg";
+        "snippet_text" = "I am excited to find a dependable Taqueria in the neighbourhood. The specialty here is seafood. We've tried fish tacos, shrimp tacos, shrimp fajitas, shrimp...";
+        url = "http://www.yelp.com/biz/taqueria-el-mex-cal-fremont";
+    },
+    {
+        categories =             (
+        (
+        "American (Traditional)",
+        tradamerican
+        ),
+        (
+        "Breakfast & Brunch",
+        "breakfast_brunch"
+        )
+        );
+        "display_phone" = "+1-510-324-8599";
+        distance = "2397.07116073165";
+        id = "break-your-fast-union-city";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/x_0pPzECVpNz2DMTYdWhsA/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "1688 Decoto Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.589632";
+                longitude = "-122.018799";
+            };
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Meyers Dr";
+            "display_address" =                 (
+            "1688 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1398114353;
+        "menu_provider" = "single_platform";
+        "mobile_url" = "http://m.yelp.com/biz/break-your-fast-union-city";
+        name = "Break Your Fast";
+        phone = 5103248599;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 206;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/ai2rHf9mxsEC5b_YqJIzJQ/ms.jpg";
+        "snippet_text" = "I remember passing by Break Your Fast many times, but I'd always been amused at the name and never thought about going in.. until one fateful day, when my...";
+        url = "http://www.yelp.com/biz/break-your-fast-union-city";
+    },
+    {
+        categories =             (
+        (
+        Thai,
+        thai
+        )
+        );
+        "display_phone" = "+1-510-475-9988";
+        distance = "2324.342726281809";
+        id = "million-thai-cuisine-union-city";
+        "image_url" = "http://s3-media1.fl.yelpcdn.com/bphoto/BjfDk__lkGSHChU6TiNEgg/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "1640 Decoto Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.5895090073926";
+                longitude = "-122.020161526099";
+            };
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Meyers Dr";
+            "display_address" =                 (
+            "1640 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/million-thai-cuisine-union-city";
+        name = "Million Thai Cuisine";
+        phone = 5104759988;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 70;
+        "snippet_image_url" = "http://s3-media3.fl.yelpcdn.com/photo/sA8mMgpHrP8NZ6N2DYWOUQ/ms.jpg";
+        "snippet_text" = "Good for medium sized crowds. Not for 8+ people.\n\nThe food that they serve here is delicious. My favorite dish is definitely the Garlic Fish, but the Pad...";
+        url = "http://www.yelp.com/biz/million-thai-cuisine-union-city";
+    },
+    {
+        categories =             (
+        (
+        Chinese,
+        chinese
+        )
+        );
+        "display_phone" = "+1-510-675-9485";
+        distance = "2235.09099157553";
+        id = "new-china-union-city";
+        "image_url" = "http://s3-media3.fl.yelpcdn.com/bphoto/J_HSqu0nWDPzCQTbBMak5g/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "El Mercado Shopping Center",
+            "1743 Decoto Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.5894905862731";
+                longitude = "-122.022330693769";
+            };
+            "country_code" = US;
+            "display_address" =                 (
+            "El Mercado Shopping Center",
+            "1743 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/new-china-union-city";
+        name = "New China";
+        phone = 5106759485;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 246;
+        "snippet_image_url" = "http://s3-media4.fl.yelpcdn.com/photo/bomESmVhG3Vqe6Sxn_wjpA/ms.jpg";
+        "snippet_text" = "*Review for Lunch Take-Out*\n\nTIPS\n+ Cash & Credit Accepted ($20 Minimum for Credit)\n+ Bank of America across the street if you need CASH!\n+ Cheap Lunch...";
+        url = "http://www.yelp.com/biz/new-china-union-city";
+    },
+    {
+        categories =             (
+        (
+        "Coffee & Tea",
+        coffee
+        ),
+        (
+        Taiwanese,
+        taiwanese
+        ),
+        (
+        "Bubble Tea",
+        bubbletea
+        )
+        );
+        "display_phone" = "+1-510-791-6489";
+        distance = "634.5933068958507";
+        id = "tea-six-fremont-2";
+        "image_url" = "http://s3-media2.fl.yelpcdn.com/bphoto/cDoPBNu04ENiVDuW7MPBUQ/ms.jpg";
+        "is_claimed" = 0;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "34460 Fremont Blvd",
+            "Ste F"
+            );
+            city = Fremont;
+            "country_code" = US;
+            "display_address" =                 (
+            "34460 Fremont Blvd",
+            "Ste F",
+            "Fremont, CA 94555"
+            );
+            "postal_code" = 94555;
+            "state_code" = CA;
+        };
+        "mobile_url" = "http://m.yelp.com/biz/tea-six-fremont-2";
+        name = "Tea Six";
+        phone = 5107916489;
+        rating = "3.5";
+        "rating_img_url" = "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png";
+        "rating_img_url_large" = "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png";
+        "rating_img_url_small" = "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png";
+        "review_count" = 330;
+        "snippet_image_url" = "http://s3-media2.fl.yelpcdn.com/photo/8c67zbvasxy0QqbEwkd-wg/ms.jpg";
+        "snippet_text" = "Came here and got the barley milk tea which was delicious! The boba was equally as delicious on the day I came in. One of the gripes I had about this place...";
+        url = "http://www.yelp.com/biz/tea-six-fremont-2";
+    },
+    {
+        categories =             (
+        (
+        Indian,
+        indpak
+        ),
+        (
+        Buffets,
+        buffets
+        )
+        );
+        "display_phone" = "+1-510-324-8819";
+        distance = "2337.507852624281";
+        id = "favorite-indian-restaurant-union-city";
+        "image_url" = "http://s3-media2.fl.yelpcdn.com/bphoto/EzzFBwKu_n7nNHEPlJNrgw/ms.jpg";
+        "is_claimed" = 1;
+        "is_closed" = 0;
+        location =             {
+            address =                 (
+            "1706 Decoto Rd"
+            );
+            city = "Union City";
+            coordinate =                 {
+                latitude = "37.5890029382385";
+                longitude = "-122.018805742264";
+            };
+            "country_code" = US;
+            "cross_streets" = "Union Sq & Meyers Dr";
+            "display_address" =                 (
+            "1706 Decoto Rd",
+            "Union City, CA 94587"
+            );
+            "geo_accuracy" = 9;
+            "postal_code" = 94587;
+            "state_code" = CA;
+        };
+        "menu_date_updated" = 1402622362;
+        "menu_provider" = eat24;
+        "mobile_url" = "http://m.yelp.com/biz/favorite-indian-restaurant-union-city";
+        name = "Favorite Indian Restaurant";
+        phone = 5103248819;
+        rating = 4;
+        "rating_img_url" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png";
+        "rating_img_url_large" = "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png";
+        "rating_img_url_small" = "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png";
+        "review_count" = 127;
+        "snippet_image_url" = "http://s3-media4.fl.yelpcdn.com/photo/AZ4mRR846d-vmP8mfL3Jvw/ms.jpg";
+        "snippet_text" = "Food:  Whether it's in Hayward or Union City, the food is yum yum yum.\n\nCustomer Service:  Hayward is better - not enough worker in Union City\n\nSeating:...";
+        url = "http://www.yelp.com/biz/favorite-indian-restaurant-union-city";
+    }
+    );
+    region =     {
+        center =         {
+            latitude = "37.5736666";
+            longitude = "-122.0293328";
+        };
+        span =         {
+            "latitude_delta" = "0.03512388000000044";
+            "longitude_delta" = "0.05034678000001236";
+        };
+    };
+    total = 852;
+}
