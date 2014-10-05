@@ -24,7 +24,6 @@ Stories not implemented:
  * Optional: implement a custom switch
  * Optional: Implement the restaurant detail page
 
-Walkthrough of most of the  user stories (Network error not shown):
 
 
 ![Video Walkthrough](YelpClient.gif)
